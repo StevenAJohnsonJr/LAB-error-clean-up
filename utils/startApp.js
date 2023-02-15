@@ -1,6 +1,7 @@
-import htmlStructure from '../components/htmlStructure';
+import htmlStructure from '../components/htmlStructcture';
 import header from '../components/header';
-import startSortingBtn from '../components/startSortingBtn';
+import startSortingBtn from '../components/startSortingbtn';
+
 import events from './events';
 
 const startApp = () => {

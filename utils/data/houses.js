@@ -1,5 +1,5 @@
 const houses = [
- {
+  {
       house: 'gryffindor',
       crest:
         'https://static.wikia.nocookie.net/pottermore/images/1/16/Gryffindor_crest.png'
@@ -24,4 +24,3 @@ const houses = [
   const students = [];
   const voldysArmy = []; // starts as an empty array
   export default { houses, students, voldysArmy };
-  
